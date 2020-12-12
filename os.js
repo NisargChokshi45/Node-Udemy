@@ -7,3 +7,5 @@ console.log("OS Version", os.version());
 console.log("OS UserInfo", os.userInfo());
 console.log("OS Platform:", os.platform());
 console.log("OS Architecture", os.arch());
+console.log("OS CPUs: ", os.cpus());
+console.log("OS release: ", os.release());
