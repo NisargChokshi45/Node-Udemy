@@ -9,14 +9,14 @@
 
 ✅ CSV Operations ✅ JSON Operations ✅ PDF Operations 
 
+✅ Directory Operations
+
 ✅ Connecting to MySQL DB ✅ Connecting to Mongo DB
 
 ✅ XML to JSON
 
 ✅ OS modules ✅ Buffers & Streams
 
-✅ Basic Web Server Setup
+✅ Static Http Web Server Setup
 
-### **Ongoing Tasks**
-
-👁‍🗨 Express JS
+✅ Basic Express Server Setup
